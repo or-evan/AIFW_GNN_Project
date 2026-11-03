@@ -8,7 +8,7 @@ This project uses Graph Neural Networks (GNNs) to predict air temperature at Dub
 - **Source:** Met Éireann hourly weather observations
 - **Period:** 2022–2025
 - **Features:** Temperature, mean sea level pressure, relative humidity, and rainfall
-- **Graph:** 13 weather stations connected using 3-nearest neighbours based on geographical distance
+- **Graph:** 13 weather stations connected using 3-nearest neighbours based on geographical distance ![Irish Weather Station Graph](data/processed/irish_station_graph_3nn.png)
 - **Input:** Previous 24 hours of observations
 
 ### Models
