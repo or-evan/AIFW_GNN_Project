@@ -10,7 +10,7 @@ This project uses Graph Neural Networks (GNNs) to predict air temperature at Dub
 - **Features:** Temperature, mean sea level pressure, relative humidity, and rainfall
 - **Graph:** 13 weather stations connected using 3-nearest neighbours based on geographical distance 
 <p align="center">
-  <img src="data/processed/irish_station_graph_3nn.png" width="500">
+  <img src="data/processed/irish_station_graph_3nn.png" width="300">
 </p>
 - **Input:** Previous 24 hours of observations
 
