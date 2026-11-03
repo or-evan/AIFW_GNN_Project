@@ -1,0 +1,21 @@
+Folder PATH listing for volume 工作&娱乐
+Volume serial number is 326F-E84D
+D:\STUDY\CODE\PYTHON\AI FOR WEATHER AND CLIMATE\AIFW-PRESENTATION-4\DATA
+    Ballyhaise 675.csv
+    Casement 3723.csv
+    Cork Airport 3904.csv
+    Dublin Airport 532.csv
+    Dunsany 1375.csv
+    Finner 2075.csv
+    Johnstown Castle 2 1775.csv
+    Knock Airport 4935.csv
+    Malin Head 1575.csv
+    Mullingar 875.csv
+    Oak Park (375).csv
+    output.txt
+    Phoenix Park.csv
+    Shannon Airport 518.csv
+    子文件路径.bat
+    
+No subfolders exist 
+
