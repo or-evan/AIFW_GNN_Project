@@ -12,6 +12,7 @@ This project uses Graph Neural Networks (GNNs) to predict air temperature at Dub
 <p align="center">
   <img src="data/processed/irish_station_graph_3nn.png" width="300">
 </p>
+
 - **Input:** Previous 24 hours of observations
 
 ### Models
